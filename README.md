@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![alt text](./Screenshot%202024-04-11%20135309.png)
 
 In the project directory, you can run:
 git add README.md
@@ -70,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 git add README.md
-![alt text](./Screenshot%202024-04-11%20135309.png)
